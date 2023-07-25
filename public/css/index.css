@@ -14,10 +14,10 @@ h1 {
     color: blue;
 }
 .box div {
-    color: green;
+    background: green;
 }
 .box p {
-    color: red
+    background: red
 }
 .brown {
     background: brown;
@@ -29,7 +29,7 @@ ul > li {
 button + span {
     background: red;
 }
-p ~ p {
+.susid ~ p {
     background: blue;
     color: white;
 }
